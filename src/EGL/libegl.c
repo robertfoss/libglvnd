@@ -62,6 +62,7 @@ static const char *SUPPORTED_CLIENT_EXTENSIONS =
     " EGL_EXT_device_base"
     " EGL_EXT_device_enumeration"
     " EGL_EXT_device_query"
+    " EGL_EXT_explicit_device"
     " EGL_EXT_platform_device"
 
     // FIXME: Include the other platform extensions here to make testing
